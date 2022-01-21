@@ -160,7 +160,7 @@ fn manjaro_script() {
         echo -e "\e[0;91m!\e[0;1;33mYour system will be \e[0;91mREBOOT!"
         sleep 5
         reboot 
-         "#
+        "#
     )
     .unwrap();
 

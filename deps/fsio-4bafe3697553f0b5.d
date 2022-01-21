@@ -1,0 +1,17 @@
+/home/ananazz/pr/rust/rustapple/target/release/deps/fsio-4bafe3697553f0b5.rmeta: /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/lib.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/directory.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/error.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/file.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/mod.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/as_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/from_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/temp_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/types.rs
+
+/home/ananazz/pr/rust/rustapple/target/release/deps/libfsio-4bafe3697553f0b5.rlib: /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/lib.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/directory.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/error.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/file.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/mod.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/as_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/from_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/temp_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/types.rs
+
+/home/ananazz/pr/rust/rustapple/target/release/deps/fsio-4bafe3697553f0b5.d: /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/lib.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/directory.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/error.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/file.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/mod.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/as_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/from_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/temp_path.rs /home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/types.rs
+
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/lib.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/directory.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/error.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/file.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/mod.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/as_path.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/from_path.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/path/temp_path.rs:
+/home/ananazz/.cargo/registry/src/github.com-1ecc6299db9ec823/fsio-0.3.0/src/types.rs:
+
+# env-dep:CARGO_PKG_NAME=fsio
