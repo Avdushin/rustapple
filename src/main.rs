@@ -46,7 +46,7 @@ fn mm() {
     let mut wtd = String::new();
 
     println!("\n\n{} {} {} {} {} {} {} {} {} {}", " 1)".cyan(), "DISTROS".yellow(), "2)".cyan(), "MyOS\n\n".yellow(), "3)".cyan(), "INFO ".yellow(),      
-   "4) ".cyan() ,"UNINSTALL\n\n".yellow(), "0)".cyan(), "QUIT\n\n".red().bold());
+   "  4)".cyan() ,"UNINSTALL\n\n".yellow(), "0)".cyan(), "QUIT\n\n".red().bold());
 
    eprint!(" Coose an action: ");
    
@@ -100,6 +100,7 @@ fn distro_log(wtd: &str) {
     }
 }
 
+// clear main menu
 fn clsmm() {
     clear();
     logo();
@@ -191,7 +192,7 @@ fn info() {
 
 // info descr
 fn version() {
-    let ver:&str="1.0";
+    let ver:&str="1.1.0";
     println!("{} {}", " VERSION: ".yellow().bold(), ver)
 }
 fn edition() {

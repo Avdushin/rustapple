@@ -89,14 +89,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "name"
-version = "0.1.0"
-dependencies = [
- "colored",
- "run_script",
-]
-
-[[package]]
 name = "ppv-lite86"
 version = "0.2.16"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -149,6 +141,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "5dd85213e37f76b40186ee781cf3a689b05c518c3102c987acf679c573d8e4ef"
 dependencies = [
  "fsio",
+]
+
+[[package]]
+name = "rustapple"
+version = "1.1.0"
+dependencies = [
+ "colored",
+ "run_script",
 ]
 
 [[package]]

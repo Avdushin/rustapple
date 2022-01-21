@@ -4,9 +4,7 @@
 
 ` cd rustapple/`
 
-`./install.sh`
-
-` ./pineapple.sh` or ` cargo run .`
+`./rustapple`
 
 
 
